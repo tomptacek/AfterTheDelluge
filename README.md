@@ -1,2 +1,3 @@
 # AfterTheDelluge
 The start of my incredible new career post-EMC(/Dell)
+This is Tom P one time serious coder dude, looking to become a big-data dude...
